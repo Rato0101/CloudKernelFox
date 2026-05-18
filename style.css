@@ -1,7 +1,7 @@
 body{
   text-shadow: rgba(0,0,0,.01) 0 0 1px;
   color:#000;
-  background:#BEA451;
+  background:#744a1b;
 }
 .text-centre{
   text-align:center;
@@ -42,7 +42,7 @@ article{
   background:#fff;
 }
 .title{
-  background: #000;
+  background: #470685;
   color: #fff;
   padding: 5px;
   padding-left: 10px;
