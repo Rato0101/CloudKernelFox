@@ -64,6 +64,10 @@ main{
   float:left;
   max-width: 68%;
 }
+photocollumn{
+  float:left;
+  max-width: 68%;
+}
 aside{
   float:right;
 	max-width: 32%;
