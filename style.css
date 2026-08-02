@@ -44,7 +44,7 @@ article{
   margin: 5px;
   padding: 5px 0;
   border: solid 1px #000;
-  overflow: hidden;
+  overflow: visible;
   padding-top: 0px;
   background:#fff;
 }
