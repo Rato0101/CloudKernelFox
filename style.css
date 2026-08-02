@@ -64,9 +64,24 @@ main{
   float:left;
   max-width: 68%;
 }
-photocollumn{
-  float:left;
-  max-width: 78%;
+.columns::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.photocollumn{
+  float: left;
+  width: 48%;
+  margin-right: 4%;
+  box-sizing: border-box;
+}
+.photocollumn:last-child{
+  margin-right: 0;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 aside{
   float:right;
