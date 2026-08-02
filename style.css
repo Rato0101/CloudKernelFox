@@ -60,23 +60,14 @@ article{
 article p, article h1,article h2, article h3, article h4{
   padding:0 15px;
 }
-main{
-  float:left;
-  max-width: 68%;
-}
-.columns::after{
-  content: "";
-  display: table;
-  clear: both;
+.columns{
+  display: flex;
+  gap: 4%;
+  align-items: flex-start;
 }
 .photocollumn{
-  float: left;
-  width: 58%;
-  margin-right: 4%;
+  flex: 1 1 0;
   box-sizing: border-box;
-}
-.photocollumn:last-child{
-  margin-right: 0;
 }
 img{
   max-width: 100%;
