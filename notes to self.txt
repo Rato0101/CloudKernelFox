@@ -1,0 +1,2 @@
+add this to img tag do make it smaller or bigger : width="200" height="200"
+(yes im not using GPT, this is almost all made buy me execpt the website template and css (wich i tweaked a little) the rest is made by me)
