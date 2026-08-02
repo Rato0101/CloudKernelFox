@@ -8,7 +8,7 @@ const style = `
   }
 
   img:hover {
-    transform: scale(8.5);
+    transform: scale(1.5);
   }
 `;
 
