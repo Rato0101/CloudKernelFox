@@ -60,11 +60,7 @@ article{
 article p, article h1,article h2, article h3, article h4{
   padding:0 15px;
 }
-.columns{
-  display: flex;
-  gap: 4%;
-  align-items: flex-start;
-}
+
 .photocollumn{
   flex: 1 1 0;
   box-sizing: border-box;
