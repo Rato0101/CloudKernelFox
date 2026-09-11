@@ -17,6 +17,7 @@ body{
 .body-wrapper{
   max-width:1000px;
   margin:0 auto;
+  overflow: visible;
 }
 .picheader{
   height:250px;
