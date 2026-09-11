@@ -20,7 +20,7 @@ body{
 }
 .picheader{
   height:250px;
-  overflow:hidden;
+  overflow:visible;
 }
 header nav{
   background:#290b4b;
@@ -69,6 +69,7 @@ article p, article h1,article h2, article h3, article h4{
 main{
   float:left;
   max-width: 68%;
+  overflow: visible;
 }
 img{
   max-width: 100%;
