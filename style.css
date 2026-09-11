@@ -9,6 +9,7 @@ body{
   text-shadow: rgba(0,0,0,.01) 0 0 1px;
   color:#000;
   background-image: url('Background.png');
+  overflow: visible;
 }
 .text-centre{
   text-align:center;
@@ -24,7 +25,7 @@ body{
 header nav{
   background:#290b4b;
   color:#fff;
-  overflow:hidden;
+  overflow: hidden;
   padding:10px auto;
 }
 header nav ul{
