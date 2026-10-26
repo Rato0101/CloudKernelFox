@@ -26,12 +26,13 @@ body{
 header nav{
   background:#290b4b;
   color:#fff;
-  overflow: hidden;
+  overflow:  Hidden;
   padding:10px auto;
+  display: flex;
 }
 header nav ul{
   list-style:none;
-  overflow:hidden;
+  overflow:visible;
 }
 header nav ul li{
   float:left;
