@@ -7,8 +7,8 @@
 body{
   font-family:'Asimovian', serif;
   text-shadow: rgba(0,0,0,.01) 0 0 1px;
-  color:#000;
-  background-image: url('Background.png');
+  color:#000000;
+  background-image: url('Background_fall.jpg');
   overflow: visible;
 }
 .text-centre{
@@ -24,8 +24,8 @@ body{
   overflow:visible;
 }
 header nav{
-  background:#290b4b;
-  color:#fff;
+  background:#804407d2;
+  color:#f7f5e1ea;
   overflow:  Hidden;
   padding:10px auto;
   display: flex;
@@ -40,7 +40,7 @@ header nav ul li{
   margin-right: 4px;
 }
 header nav ul li a{
-  color:#fff;
+  color:#f7f5e1ea;
   font-size:1.2em
 }
 article{
@@ -49,19 +49,24 @@ article{
   border: solid 1px #000;
   overflow: visible;
   padding-top: 0px;
-  background:#fff;
+  background:#f7f5e1ea;
 }
 .title{
-  background: #431f7c;
-  color: #fff;
+  background: #b36d1cce;
+  color: #ffffff;
   padding: 5px;
   padding-left: 10px;
-  overflow: hidden;
+  overflow: visible;
 	margin: 0;
   font-weight:bolder;
 }
-article p, article h1,article h2, article h3, article h4{
+article p,article h2, article h3, article h4{
   padding:0 15px;
+}
+
+
+article h1{
+  background: #b36d1cdc;
 }
 
 .photocollumn{
@@ -86,3 +91,5 @@ footer{
 	width: 100%;
 	float: left;
 }
+
+
